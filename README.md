@@ -2,7 +2,7 @@
 - 👀 I’m interested in precision argriculture
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on develloping  web app
-- 📫 How to reach me othmanhmida@gmail.com
+- 📫 How to reach me othmanhmida26@gmail.com
 - 
 
 <!---
